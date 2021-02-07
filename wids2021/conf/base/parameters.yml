@@ -1,3 +1,0 @@
-test_size: 0.2
-random_state: 41
-feat_to_remove: ['diabetes_mellitus']
